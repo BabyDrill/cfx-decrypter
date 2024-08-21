@@ -4,6 +4,9 @@ This is a Discord bot used to decrypt files under keymaster, I would like to poi
 ## Previw
 https://streamable.com/xf52ht
 
+## How to clear code
+https://streamable.com/cve1p6
+
 ## Installation
 1) Place the turboh folder on the C drive on Discord C:\
 2) Change your keymaster key on ninja/cfx/server.cfg and replace it with one of your own using the IP where you will start the bot
